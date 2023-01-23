@@ -15,7 +15,7 @@ $(function () {
             $this.prop("disabled", true);
 
             $.ajax({
-                url: "contact.php",
+                url: "https://submit-form.com/NUGyQqgv",
                 type: "POST",
                 data: {
                     name: name,
